@@ -1,7 +1,7 @@
 # FAQ: Feature Aggregated Queries for Transformer-based Video Object Detectors
 
 
-This repository is an official implementation of the paper [Feature Aggregated Queries for Transformer-based Video Object Detectors].
+This repository is an official implementation of the paper [Feature Aggregated Queries for Transformer-based Video Object Detectors](https://arxiv.org/abs/2303.08319).
 
 
 ## Installation
