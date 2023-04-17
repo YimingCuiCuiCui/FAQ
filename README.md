@@ -103,9 +103,11 @@ GPUS_PER_NODE=8 ./tools/run_dist_launch.sh $1 eval_r50 $2 configs/r50_eval_multi
 ## Citing FAQ
 If you find FAQ useful in your research, please consider citing:
 ```bibtex
-@article{cui2023faq,
-  title={FAQ: Feature Aggregated Queries for Transformer-based Video Object Detectors},
-  author={Cui, Yiming},
-  journal={arXiv preprint arXiv:2303.08319},
-  year={2023}
+@misc{cui2023faq,
+      title={FAQ: Feature Aggregated Queries for Transformer-based Video Object Detectors}, 
+      author={Yiming Cui and Linjie Yang},
+      year={2023},
+      eprint={2303.08319},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
 }
